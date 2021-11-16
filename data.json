@@ -1,0 +1,12 @@
+{
+  "url": "http://automationpractice.com/",
+  "firstname": "TestName",
+  "lastname": "TestLastName",
+  "phone": "05555555555",
+  "password": "123456",
+  "address": "X Mahallesi Y Caddesi No 3 D1",
+  "city": "istanbul",
+  "postcode" : "34520",
+  "search" : "summer",
+
+}
